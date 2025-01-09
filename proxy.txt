@@ -1,3 +1,4 @@
-http://61c5add4265d1503d35a__cr.sg;sessttl.1440:534e443745257cc3@ip.proxynet.top:823
-https://61c5add4265d1503d35a__cr.sg;sessttl.1440:534e443745257cc3@ip.proxynet.top:824
-socks5://61c5add4265d1503d35a__cr.sg;sessttl.1440:534e443745257cc3@ip.proxynet.top:20000
+https://349d60da3819e5530f72__cr.sg:eb2f13b557dbc252@ip.proxynet.top:823
+https://349d60da3819e5530f72__cr.sg;sessttl.1440:eb2f13b557dbc252@ip.proxynet.top:20000
+socks5://349d60da3819e5530f72__cr.sg:eb2f13b557dbc252@ip.proxynet.top:824
+https://349d60da3819e5530f72__cr.sg;sessttl.1440:eb2f13b557dbc252@ip.proxynet.top:20000
